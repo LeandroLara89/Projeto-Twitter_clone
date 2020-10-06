@@ -9,7 +9,7 @@ Codificação HTML CSS e classes do Bootstrap
 
 Criando Criptografia MD5 que nativa PHP para senha de Usuários Sql
 
-Fazendo busca de dados 
+Fazendo busca de dados. 
 ```
 	
 	
